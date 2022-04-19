@@ -1,8 +1,15 @@
-<h1>Bem-vindo ao GitHub de Daniel Campelo</h1>
+<h3>Bem-vindo ao GitHub de Daniel Campelo</h3>
 
-<p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!  </p>
+<p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!</p>
 
-
+<h4>Linguagens</h4>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+              
+</p>
 <!--
 **DanielCampelo10/DanielCampelo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
