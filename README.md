@@ -1,6 +1,8 @@
-## Olá, eu sou o Daniel Campelo! Sou Desenvolvedor Web FullStack em formação na Gama Academy!
+<h3>Olá, eu sou o Daniel Campelo!</h3> 
+<p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!<p>
 
-## <div style="display: flex">
+##
+<div style="display: flex">
   <a href="https://github.com/DanielCampelo10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCampelo10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCampelo10&layout=compact&langs_count=7&theme=dracula"/>
