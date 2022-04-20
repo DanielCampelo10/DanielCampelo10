@@ -5,7 +5,6 @@
     </div>
     <div align="right">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" heigth="20px"/>
-          
     </div>
 </div>
 
