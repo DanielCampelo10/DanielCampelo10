@@ -1,15 +1,15 @@
-<div style="display: inline_block">
+<div>
     <div>
-        <h3>Olá, eu sou o Daniel Campelo!</h3> 
-        <p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!<p>
+        <a href="https://www.linkedin.com/in/daniel-campelo-76015888/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" heigth="30px"/></a>
     </div>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" heigth="20px"/>
+        <h3>Olá, eu sou o Daniel Campelo!</h3>
+        <p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!<p>
     </div>
 </div>
 
 ##
-<div style="display: flex">
+<div style="display: inline_block">
   <a href="https://github.com/DanielCampelo10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCampelo10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCampelo10&layout=compact&langs_count=7&theme=dracula"/>
