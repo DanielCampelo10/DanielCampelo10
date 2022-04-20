@@ -1,4 +1,4 @@
-<div style="display: flex">
+<div style="display: inline_block">
     <div>
         <h3>Olá, eu sou o Daniel Campelo!</h3> 
         <p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!<p>
