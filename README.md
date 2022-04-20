@@ -3,7 +3,7 @@
         <h3>Olá, eu sou o Daniel Campelo!</h3> 
         <p>Sou Desenvolvedor Web FullStack em formação na Gama Academy!<p>
     </div>
-    <div align="right">
+    <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" heigth="20px"/>
     </div>
 </div>
