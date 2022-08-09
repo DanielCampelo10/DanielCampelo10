@@ -27,9 +27,10 @@
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
   </p>
 </p>
+<br><br>
 <p>
 <br>
-<h3>Quer entrar em contato comigo? Me encontre aqui:<h3><br>
+<h4>Quer entrar em contato comigo? Me encontre aqui:<h4>
   <a href="https://www.linkedin.com/in/daniel-campelo-76015888"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send?phone=5588992069566"><img src="https://img.shields.io/badge/whatsapp-128c7e.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://instagram.com/danielcampelo10"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
